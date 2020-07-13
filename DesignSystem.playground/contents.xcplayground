@@ -3,5 +3,6 @@
     <pages>
         <page name='Typography'/>
         <page name='Colors'/>
+        <page name='TextFieldValidation'/>
     </pages>
 </playground>
