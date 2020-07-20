@@ -4,5 +4,6 @@
         <page name='Typography'/>
         <page name='Colors'/>
         <page name='TextFieldValidation'/>
+        <page name='DateFormatting'/>
     </pages>
 </playground>
